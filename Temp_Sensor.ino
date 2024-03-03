@@ -1,4 +1,6 @@
+//Defines the digital pin LED connected to board
 #define LED 8
+//Defines the analog pin connected to temperature sensor
 #define TEMP A0
 
 //Initiallizing the values for LED to blink 500 milliseconds
